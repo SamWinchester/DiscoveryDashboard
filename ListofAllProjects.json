@@ -1,6 +1,5 @@
 {'ProjectName': 'ttt', 'GithubLink': 'ttt', 'ProjectDesc': 'ttt'}
 {'ProjectName': 'chec121', 'GithubLink': 'cehc121', 'ProjectDesc': 'chec', 'RTBtags': 'on'}
-
 {'ProjectName': 'qwerty', 'GithubLink': 'qwerty', 'ProjectDesc': 'qwerty', 'Securitytags': 'on'}
 {'ProjectName': 'QAD', 'GithubLink': 'https://github.intuit.com/ContentMgmt/cas', 'ProjectDesc': 'blah blha blahbb', 'Automationtags': 'on', 'Resiliencytags': 'on'}
 {'ProjectName': 'ProjectX', 'GithubLink': 'https://github.intuit.com/ContentMgmt/ProjectX', 'ProjectDesc': 'Some random info about project X', 'Securitytags': 'on', 'Resiliencytags': 'on'}
