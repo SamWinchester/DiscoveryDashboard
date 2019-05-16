@@ -3,3 +3,5 @@
 {'ProjectName': 'qwerty', 'GithubLink': 'qwerty', 'ProjectDesc': 'qwerty', 'Securitytags': 'on'}
 {'ProjectName': 'QAD', 'GithubLink': 'https://github.intuit.com/ContentMgmt/cas', 'ProjectDesc': 'blah blha blahbb', 'Automationtags': 'on', 'Resiliencytags': 'on'}
 {'ProjectName': 'ProjectX', 'GithubLink': 'https://github.intuit.com/ContentMgmt/ProjectX', 'ProjectDesc': 'Some random info about project X', 'Securitytags': 'on', 'Resiliencytags': 'on'}
+
+{'ProjectName': 'DynamoDb Cross Account Copy', 'GithubLink': 'https://github.intuit.com/ssingh39/dynamodb-cross-account-copy', 'ProjectDesc': 'allows copying multiple Dynamodb Tables for diffrent accounts', 'Automationtags': 'on', 'Resiliencytags': 'on', 'RTBtags': 'on'}
