@@ -5,3 +5,4 @@
 {'ProjectName': 'ProjectX', 'GithubLink': 'https://github.intuit.com/ContentMgmt/ProjectX', 'ProjectDesc': 'Some random info about project X', 'Securitytags': 'on', 'Resiliencytags': 'on'}
 
 {'ProjectName': 'DynamoDb Cross Account Copy', 'GithubLink': 'https://github.intuit.com/ssingh39/dynamodb-cross-account-copy', 'ProjectDesc': 'allows copying multiple Dynamodb Tables for diffrent accounts', 'Automationtags': 'on', 'Resiliencytags': 'on', 'RTBtags': 'on'}
+{'ProjectName': 'Slack-Integeration', 'GithubLink': 'https://github.intuit.com/ssingh39/Slack-Integeration', 'ProjectDesc': 'Slack-Integeration Slack-Integeration', 'Resiliencytags': 'on'}
