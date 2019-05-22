@@ -1,1 +1,2 @@
-{ 'DynamoDb-copy' : {'ProjectName': 'DynamoDb-copy', 'GithubLink': 'https://github.intuit.com/ssingh39/dynamodb-cross-account-copy', 'ProjectDesc': 'dynamodb-cross-account-copy', 'Automationtags': 'on', 'RTBtags': 'on'} }
+{ 'DynamoDb-copy' : {'ProjectName': 'DynamoDb-copy', 'GithubLink': 'https://github.intuit.com/ssingh39/dynamodb-cross-account-copy', 'ProjectDesc': 'dynamodb-cross-account-copy', 'Automationtags': 'on', 'RTBtags': 'on'} , 
+'TinyUrl' : {'ProjectName': 'TinyUrl', 'GithubLink': 'https://github.intuit.com/quickemployerforms/qef', 'ProjectDesc': 'TinyUrl TinyUrl TinyUrl', 'Automationtags': 'on', 'RTBtags': 'on'}}
