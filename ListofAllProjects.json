@@ -1,1 +1,2 @@
-{ 'DynamoDb-copy' : {'ProjectName': 'DynamoDb-copy', 'GithubLink': 'https://github.intuit.com/ssingh39/dynamodb-cross-account-copy', 'ProjectDesc': 'dynamodb-cross-account-copy', 'Automationtags': 'on', 'RTBtags': 'on'} }
+{ 'DynamoDb-copy' : {'ProjectName': 'DynamoDb-copy', 'GithubLink': 'https://github.intuit.com/ssingh39/dynamodb-cross-account-copy', 'ProjectDesc': 'dynamodb-cross-account-copy', 'Automationtags': 'on', 'RTBtags': 'on'} , 
+'DiscoveryDashboard' : {'ProjectName': 'DiscoveryDashboard', 'GithubLink': 'https://github.intuit.com/ssingh39/MIA', 'ProjectDesc': 'DiscoveryDashboard DiscoveryDashboard', 'Resiliencytags': 'on', 'RTBtags': 'on'}
